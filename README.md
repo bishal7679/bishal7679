@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bishal7679&show_icons=true&locale=en" alt="bishal7679" /></p>
 
-<p><img align="right-top" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal7679&" alt="bishal7679" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal7679&" alt="bishal7679" /></p>
 
