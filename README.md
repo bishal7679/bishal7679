@@ -20,7 +20,7 @@
 
 <a href="https://twitter.com/programmersthi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmersthi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bishal-das-1bba8b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-das-1bba8b1b8" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bishal491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bishal491" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bishal491" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72222987/153700688-a695f9e2-da2d-4db5-90e9-9985eab9af24.png" alt="@bishal491" height="30" width="30"/></a>
 <a href="https://www.hackerrank.com/bishalhnj127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishalhnj127" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bishal7679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishal7679" height="30" width="40" /></a>
 </p>
