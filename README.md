@@ -18,7 +18,7 @@
 - Open for collaboration and share new ideas
 
 
-[![Twitter](https://img.shields.io/badge/bishaldas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bishal)
+[![Twitter](https://img.shields.io/badge/bishaldas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bishal98564)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-das-1bba8b1b8/)
 [![Outlook](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalhnj127@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](coming)
