@@ -23,6 +23,7 @@
 [![Outlook](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalhnj127@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](coming)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@bishal491)
+[![Leetcode](https://img.shields.io/badge/Leetcode-927bb5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bits_manipulator/)
 
 <p></p>
 
