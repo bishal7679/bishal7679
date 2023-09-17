@@ -8,7 +8,8 @@
 <br>
 
 
-![Devops (1)](https://user-images.githubusercontent.com/70086051/226087936-0c6c6203-d71d-4fe0-8e98-784f0b9cf72c.png)
+![1500x500](https://github.com/bishal7679/bishal7679/assets/70086051/ca055ca5-b81e-417e-89c7-9cf2c1ff6152)
+
 
 <p align = "center">
 
