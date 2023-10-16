@@ -3,7 +3,7 @@
 
 
 <h4 align="center">
-  Kubesimplify Ambassador, CNCF project contributor, 2nd-year B.Tech. Computer Science student from Asansol Engineering College
+  Kubesimplify Ambassador, CNCF project contributor, 3rd-year B.Tech. Computer Science student from Asansol Engineering College
 </h4>
 <br>
 
@@ -14,7 +14,7 @@
 <p align = "center">
 
 - 🎓 I’m an Open-Source and Blogging enthusiast
-- 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
+- 💻 passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
 - 🌱 Open Source, Applying the Concepts, and Blogging
 - Open for collaboration and share new ideas
 
