@@ -1,7 +1,5 @@
 **<h1 align="center">Hi 👋, I&apos;m Bishal Das</h1>**
 
-
-
 <h4 align="center">
   Kubesimplify Ambassador, CNCF project contributor, 3rd-year B.Tech. Computer Science student from Asansol Engineering College
 </h4>
@@ -19,10 +17,9 @@
 - Open for collaboration and share new ideas
 
 
-[![Twitter](https://img.shields.io/badge/bishaldas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bishal98564)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-das-1bba8b1b8/)
+[![Twitter](https://img.shields.io/badge/BishalDas-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/bishalOps_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-das-%E2%98%81%EF%B8%8F-1bba8b1b8/)
 [![Outlook](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalhnj127@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](coming)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@bishal491)
 [![Leetcode](https://img.shields.io/badge/Leetcode-927bb5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bits_manipulator/)
 
@@ -54,8 +51,7 @@
 +/ -->
 
 
-![Bishals's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bishal7679&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
+[![Bishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishal7679&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/bishal7679/github-readme-activity-graph)
 
 ## My Latest Blog's 🚀
 * <h4><a href = "https://blog.kubesimplify.com/kubernetes-access-control-with-authentication-authorization-admission-control#clbn4o5ty02ceevnv6vum5aw7">kubernetes-access-control-with-authentication-authorization-admission-control</a></h4>
@@ -67,7 +63,6 @@
 ### *Languages & Database*
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -113,13 +108,8 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-### 🏢 *Office*
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ## **CNCF products used so far**
-<img src="https://landscape.cncf.io/logos/jenkins.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/git-hub-actions.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/helm.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/monokle.svg" height="60px" width="auto"/>   <img src="https://landscape.cncf.io/logos/argo.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/amazon-elastic-kubernetes-service-distro-amazon-eks-d.svg" height="60px" width="auto"/>   <img src="https://landscape.cncf.io/logos/azure-kubernetes-service-aks.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/kube-sphere-qke.svg" height="70px" width="auto"/>   <img src="https://landscape.cncf.io/logos/minikube.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/heroku.svg" height="80px" width="auto"/>    <img src="https://landscape.cncf.io/logos/kubernetes.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/trivy.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/azure-registry.svg" height="80px" width="auto"/>    <img src="https://landscape.cncf.io/logos/my-sql.svg" height="80px" width="auto"/>  <img src="https://landscape.cncf.io/logos/flux.svg" height="80px" width="auto"/>     <img src="https://landscape.cncf.io/logos/git-lab.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/tekton-pipelines.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/k3s.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/kyverno.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/datree.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/snyk.svg" height="80px" width="auto"/>   <br>
+<img src="https://landscape.cncf.io/logos/345eb026a54643f2ae6a08d6c39cc16bdacaef9fe02f6f31f767ade77a25245f.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/544558e56e8ec6afb65343e46a37b8f59cc598bb747dc457be1806ad50424def.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/ff445c0966fc32219a425b8e5173deea4810d0458ef93895e315a6623b2ef1b8.svg" height="80px" width="auto"/>  <img src="https://landscape.cncf.io/logos/ba71fd50cbc06c7bad3554de23cbca4298593141df3842003a94065c209610f4.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/bb6d8dbe7b0fddd49758ad5f0eb56f02868bbb40d52a9181410d8cd16dcd1b53.svg" height="60px" width="auto"/>   <img src="https://landscape.cncf.io/logos/08197429358a0aa89567795a9b6e8fe346de5b02cd926a7432896ef840433458.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/e0303fdc381c96c1b4461ad1a2437c8f050cfb856fcb8710c9104367ca60f316.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/72e8d2db57539aabce0fbe6e0a044eba7142c7f4343922abb65f2fe04f1b8c84.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/6435e589e94c6cef2a892324f822f41cf57da43dfb6a4d7c6ef8bfd537086d20.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/8bc815407ec05dd49ebd15b6368232de6b62889a65c92161b8976c9b383ffb06.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/cd16e4a1d4b1b2b785530124b090d2fe64cbe2ce0f4d80e1bb968c45bb35af0b.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/9a56fe71900b1a9d2af0bea5a043a9ebdea9edd59a2cd160c8726e6abab202da.svg" height="80px" width="auto"/>   <br>
 
 
 <a href="https://www.buymeacoffee.com/bishal7679" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: auto!important;width: 120px !important;" ></a>
